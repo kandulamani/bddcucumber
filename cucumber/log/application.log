@@ -1,0 +1,157 @@
+2020-01-25 23:47:19,282 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-25 23:47:29,007 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-25 23:47:29,174 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (7abbca96cee24c7e9bcca8bcda1492a4)] -> name: email]
+2020-01-25 23:47:29,297 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (7abbca96cee24c7e9bcca8bcda1492a4)] -> name: pass]
+2020-01-25 23:47:30,582 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (7abbca96cee24c7e9bcca8bcda1492a4)] -> id: loginbutton]
+2020-01-25 23:47:31,400 [main] INFO com.cucumber.testbase.TestBase - Browser is closed
+2020-01-25 23:47:31,400 [main] INFO com.cucunber.testSteps.ServiceHooks - Sign In with valid credential is pass
+2020-01-25 23:47:31,419 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-25 23:47:42,201 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-25 23:47:42,346 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (3ccb35d08611a7176438be49a5ce4a1f)] -> name: email]
+2020-01-25 23:47:42,478 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (3ccb35d08611a7176438be49a5ce4a1f)] -> name: pass]
+2020-01-25 23:47:49,408 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (3ccb35d08611a7176438be49a5ce4a1f)] -> id: loginbutton]
+2020-01-25 23:47:51,626 [main] INFO com.cucumber.testbase.TestBase - Browser is closed
+2020-01-25 23:47:51,628 [main] INFO com.cucunber.testSteps.ServiceHooks - Sign In with valid credentials is pass
+2020-01-25 23:49:49,336 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-25 23:50:00,753 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-25 23:50:00,920 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (776012ce53999a098b9d43b2e89bbab2)] -> name: email]
+2020-01-25 23:50:01,030 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (776012ce53999a098b9d43b2e89bbab2)] -> name: pass]
+2020-01-25 23:50:02,256 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (776012ce53999a098b9d43b2e89bbab2)] -> id: loginbutton]
+2020-01-25 23:50:03,065 [main] INFO com.cucumber.testbase.TestBase - Browser is closed
+2020-01-25 23:50:03,067 [main] INFO com.cucunber.testSteps.ServiceHooks - Sign In with valid credential is pass
+2020-01-25 23:50:03,093 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-25 23:50:11,851 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-25 23:50:11,987 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (b098aa744e438376c6c4460a0c10cdc4)] -> name: email]
+2020-01-25 23:50:12,103 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (b098aa744e438376c6c4460a0c10cdc4)] -> name: pass]
+2020-01-25 23:50:18,739 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (b098aa744e438376c6c4460a0c10cdc4)] -> id: loginbutton]
+2020-01-25 23:50:19,407 [main] INFO com.cucumber.testbase.TestBase - Browser is closed
+2020-01-25 23:50:19,410 [main] INFO com.cucunber.testSteps.ServiceHooks - Sign In with valid credentials is pass
+2020-01-25 23:52:32,672 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-25 23:52:43,295 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-25 23:52:43,435 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (8436057b5168d2877fb3d0c09f6ea756)] -> name: email]
+2020-01-25 23:52:43,551 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (8436057b5168d2877fb3d0c09f6ea756)] -> name: pass]
+2020-01-25 23:52:44,875 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (8436057b5168d2877fb3d0c09f6ea756)] -> id: loginbutton]
+2020-01-25 23:52:44,876 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credential is pass
+2020-01-25 23:52:46,187 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-25 23:52:56,955 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-25 23:52:57,083 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (3fcbc238c3c9a6e1522decab31d80a9c)] -> name: email]
+2020-01-25 23:52:57,199 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (3fcbc238c3c9a6e1522decab31d80a9c)] -> name: pass]
+2020-01-25 23:53:02,603 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (3fcbc238c3c9a6e1522decab31d80a9c)] -> id: loginbutton]
+2020-01-25 23:53:02,604 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credentials is pass
+2020-01-25 23:55:01,664 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-25 23:55:11,238 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-25 23:55:11,409 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (fb1ffeadabca6ce4cb5eed18a5b17c02)] -> name: email]
+2020-01-25 23:55:11,540 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (fb1ffeadabca6ce4cb5eed18a5b17c02)] -> name: pass]
+2020-01-25 23:55:11,593 [main] INFO com.cucumber.testbase.TestBase - Click Operation is not performed on webElement :Proxy element for: DefaultElementLocator 'By.id: loginbutt'
+2020-01-25 23:55:11,627 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credential is pass
+2020-01-25 23:55:12,773 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-25 23:55:23,393 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-25 23:55:23,526 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (700435ac58b1a376ebbc5b68733be9b3)] -> name: email]
+2020-01-25 23:55:23,644 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (700435ac58b1a376ebbc5b68733be9b3)] -> name: pass]
+2020-01-25 23:55:23,684 [main] INFO com.cucumber.testbase.TestBase - Click Operation is not performed on webElement :Proxy element for: DefaultElementLocator 'By.id: loginbutt'
+2020-01-25 23:55:23,687 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credentials is pass
+2020-01-25 23:57:48,223 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-25 23:57:59,809 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-25 23:57:59,949 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (c97b1b488b1a98070f57c1ebeae0d2b3)] -> name: email]
+2020-01-25 23:58:00,068 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (c97b1b488b1a98070f57c1ebeae0d2b3)] -> name: pass]
+2020-01-25 23:58:25,580 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (c97b1b488b1a98070f57c1ebeae0d2b3)] -> id: loginbutton]
+2020-01-25 23:58:25,583 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credential is Failed
+2020-01-25 23:58:26,676 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-25 23:58:36,724 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-25 23:58:36,869 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (f349248e9563931deb89fc9266a57072)] -> name: email]
+2020-01-25 23:58:36,983 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (f349248e9563931deb89fc9266a57072)] -> name: pass]
+2020-01-25 23:58:43,775 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (f349248e9563931deb89fc9266a57072)] -> id: loginbutton]
+2020-01-25 23:58:43,776 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credentials is Failed
+2020-01-26 00:02:54,481 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 00:03:08,057 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-26 00:03:08,376 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (0e674c2e31028f54b568a617faf0ebd6)] -> name: email]
+2020-01-26 00:03:08,622 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (0e674c2e31028f54b568a617faf0ebd6)] -> name: pass]
+2020-01-26 00:03:34,780 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (0e674c2e31028f54b568a617faf0ebd6)] -> id: loginbutton]
+2020-01-26 00:03:34,782 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credential is Failed
+2020-01-26 00:03:35,955 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 00:03:48,179 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-26 00:03:48,437 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (61fd8bcef033e47eb50016546f33a4d8)] -> name: email]
+2020-01-26 00:03:48,679 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (61fd8bcef033e47eb50016546f33a4d8)] -> name: pass]
+2020-01-26 00:03:54,388 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (61fd8bcef033e47eb50016546f33a4d8)] -> id: loginbutton]
+2020-01-26 00:03:54,390 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credentials is Failed
+2020-01-26 00:03:55,544 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 00:04:07,024 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-26 00:04:07,244 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (e561a8f3200f586f6e2870b749ff77af)] -> name: email]
+2020-01-26 00:04:07,465 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (e561a8f3200f586f6e2870b749ff77af)] -> name: pass]
+2020-01-26 00:04:33,411 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (e561a8f3200f586f6e2870b749ff77af)] -> id: loginbutton]
+2020-01-26 00:04:33,412 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is Failed
+2020-01-26 00:04:34,573 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 00:04:44,993 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-26 00:04:45,149 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (bbc4cdfb412b92b675dafa8ad943168e)] -> name: email]
+2020-01-26 00:04:45,270 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (bbc4cdfb412b92b675dafa8ad943168e)] -> name: pass]
+2020-01-26 00:04:55,911 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (bbc4cdfb412b92b675dafa8ad943168e)] -> id: loginbutton]
+2020-01-26 00:04:55,912 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credentials is Failed
+2020-01-26 00:07:08,144 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 00:07:21,898 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-26 00:07:22,153 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (18a84965ad6dce3a19c6fee8ad0992f0)] -> name: email]
+2020-01-26 00:07:22,391 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (18a84965ad6dce3a19c6fee8ad0992f0)] -> name: pass]
+2020-01-26 00:07:48,349 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (18a84965ad6dce3a19c6fee8ad0992f0)] -> id: loginbutton]
+2020-01-26 00:07:48,354 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credential is Failed
+2020-01-26 00:07:49,413 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 00:08:01,320 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-26 00:08:01,481 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (537aca0ee7f5bc8946e9cfa184e1840e)] -> name: email]
+2020-01-26 00:08:01,708 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (537aca0ee7f5bc8946e9cfa184e1840e)] -> name: pass]
+2020-01-26 00:08:10,609 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (537aca0ee7f5bc8946e9cfa184e1840e)] -> id: loginbutton]
+2020-01-26 00:08:10,612 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credentials is Failed
+2020-01-26 00:08:11,729 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 00:08:23,052 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-26 00:08:23,261 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (dded8763217b2f3db64450f144ce8b41)] -> name: email]
+2020-01-26 00:08:23,485 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (dded8763217b2f3db64450f144ce8b41)] -> name: pass]
+2020-01-26 00:08:26,464 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (dded8763217b2f3db64450f144ce8b41)] -> id: loginbutton]
+2020-01-26 00:08:26,465 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is pass
+2020-01-26 00:08:27,705 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 00:08:37,260 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-26 00:08:37,513 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (6d1601a4bf7327cf610dae03a527f826)] -> name: email]
+2020-01-26 00:08:37,758 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (6d1601a4bf7327cf610dae03a527f826)] -> name: pass]
+2020-01-26 00:08:46,206 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (6d1601a4bf7327cf610dae03a527f826)] -> id: loginbutton]
+2020-01-26 00:08:46,207 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credentials is pass
+2020-01-26 00:12:41,952 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 00:12:54,054 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-26 00:12:54,203 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (6b830173d136c83457c86a4c8311f1d6)] -> name: email]
+2020-01-26 00:12:54,336 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (6b830173d136c83457c86a4c8311f1d6)] -> name: pass]
+2020-01-26 00:12:55,747 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (6b830173d136c83457c86a4c8311f1d6)] -> id: loginbutton]
+2020-01-26 00:12:55,755 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credential is Failed
+2020-01-26 00:12:57,135 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 00:13:07,878 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-26 00:13:08,030 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (9ed130b4279a0bcf99dbe08fda5cdedb)] -> name: email]
+2020-01-26 00:13:08,155 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (9ed130b4279a0bcf99dbe08fda5cdedb)] -> name: pass]
+2020-01-26 00:13:15,165 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (9ed130b4279a0bcf99dbe08fda5cdedb)] -> id: loginbutton]
+2020-01-26 00:13:15,169 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credentials is Failed
+2020-01-26 00:13:16,700 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 00:13:29,383 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-26 00:13:29,508 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (8df40e7380bab9e98f038deed50051d8)] -> name: email]
+2020-01-26 00:13:29,631 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (8df40e7380bab9e98f038deed50051d8)] -> name: pass]
+2020-01-26 00:13:32,798 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (8df40e7380bab9e98f038deed50051d8)] -> id: loginbutton]
+2020-01-26 00:13:32,802 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is pass
+2020-01-26 00:13:34,364 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 00:13:43,708 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://www.facebook.com/
+2020-01-26 00:13:43,944 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (ee47c5db966ea98f43ea08a1826ce12f)] -> name: email]
+2020-01-26 00:13:44,165 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (ee47c5db966ea98f43ea08a1826ce12f)] -> name: pass]
+2020-01-26 00:13:49,622 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (ee47c5db966ea98f43ea08a1826ce12f)] -> id: loginbutton]
+2020-01-26 00:13:49,623 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credentials is pass
+2020-01-26 15:44:32,073 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is Failed
+2020-01-26 15:44:32,104 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is Failed
+2020-01-26 15:44:32,214 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is Failed
+2020-01-26 15:46:09,174 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 15:46:25,030 [main] INFO com.cucumber.testbase.TestBase - Launched URL http://automationpractice.com/index.php
+2020-01-26 15:46:28,151 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (742d9eb1418f931d877609fa4219d525)] -> xpath: //a[@class='login']]
+2020-01-26 15:46:28,347 [main] INFO com.cucumber.helperclasses.ElementHelper - Element is displayed on web Page [[ChromeDriver: chrome on WINDOWS (742d9eb1418f931d877609fa4219d525)] -> xpath: //*[contains(text(),'Create an account')]]
+2020-01-26 15:46:28,675 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (742d9eb1418f931d877609fa4219d525)] -> id: email_create]
+2020-01-26 15:46:28,677 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is pass
+2020-01-26 15:46:30,288 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 15:46:43,047 [main] INFO com.cucumber.testbase.TestBase - Launched URL http://automationpractice.com/index.php
+2020-01-26 15:46:45,996 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (fbe85ee29d6f680dbc238227eb3ef697)] -> xpath: //a[@class='login']]
+2020-01-26 15:46:46,149 [main] INFO com.cucumber.helperclasses.ElementHelper - Element is displayed on web Page [[ChromeDriver: chrome on WINDOWS (fbe85ee29d6f680dbc238227eb3ef697)] -> xpath: //*[contains(text(),'Create an account')]]
+2020-01-26 15:46:46,426 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (fbe85ee29d6f680dbc238227eb3ef697)] -> id: email_create]
+2020-01-26 15:46:46,427 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is pass
+2020-01-26 15:46:47,848 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-26 15:47:02,049 [main] INFO com.cucumber.testbase.TestBase - Launched URL http://automationpractice.com/index.php
+2020-01-26 15:47:05,030 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (2f3f7b21c85c1045dc4cb4a1683bf971)] -> xpath: //a[@class='login']]
+2020-01-26 15:47:05,198 [main] INFO com.cucumber.helperclasses.ElementHelper - Element is displayed on web Page [[ChromeDriver: chrome on WINDOWS (2f3f7b21c85c1045dc4cb4a1683bf971)] -> xpath: //*[contains(text(),'Create an account')]]
+2020-01-26 15:47:05,484 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (2f3f7b21c85c1045dc4cb4a1683bf971)] -> id: email_create]
+2020-01-26 15:47:05,485 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is pass
